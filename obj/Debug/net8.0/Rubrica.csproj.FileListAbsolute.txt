@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Rubrica\Rubrica\bin\Debug\net8.0\Rubrica.exe
+C:\Users\danie\source\repos\Rubrica\Rubrica\bin\Debug\net8.0\Rubrica.deps.json
+C:\Users\danie\source\repos\Rubrica\Rubrica\bin\Debug\net8.0\Rubrica.runtimeconfig.json
+C:\Users\danie\source\repos\Rubrica\Rubrica\bin\Debug\net8.0\Rubrica.dll
+C:\Users\danie\source\repos\Rubrica\Rubrica\bin\Debug\net8.0\Rubrica.pdb
+C:\Users\danie\source\repos\Rubrica\Rubrica\obj\Debug\net8.0\Rubrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Rubrica\Rubrica\obj\Debug\net8.0\Rubrica.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Rubrica\Rubrica\obj\Debug\net8.0\Rubrica.AssemblyInfo.cs
+C:\Users\danie\source\repos\Rubrica\Rubrica\obj\Debug\net8.0\Rubrica.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Rubrica\Rubrica\obj\Debug\net8.0\Rubrica.dll
+C:\Users\danie\source\repos\Rubrica\Rubrica\obj\Debug\net8.0\refint\Rubrica.dll
+C:\Users\danie\source\repos\Rubrica\Rubrica\obj\Debug\net8.0\Rubrica.pdb
+C:\Users\danie\source\repos\Rubrica\Rubrica\obj\Debug\net8.0\Rubrica.genruntimeconfig.cache
+C:\Users\danie\source\repos\Rubrica\Rubrica\obj\Debug\net8.0\ref\Rubrica.dll
