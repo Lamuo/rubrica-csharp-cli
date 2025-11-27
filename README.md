@@ -1,48 +1,48 @@
-# Rubrica CLI in C#
+# Contact List CLI in C#
 
-Un semplice programma console per gestire una rubrica contatti con funzionalità di caricamento, aggiunta, ricerca, eliminazione, salvataggio e visualizzazione.
+A simple console program to manage a contact list with features for loading, adding, searching, deleting, saving, and displaying contacts.
 
-## Caratteristiche
+## Features
 
-- Caricamento iniziale da file CSV
-- Aggiunta di nuovi contatti
-- Ricerca per nome o cognome (case insensitive)
-- Eliminazione di contatti
-- Salvataggio su file CSV
-- Visualizzazione dei contatti (senza ordinamento)
+- Initial loading from CSV file
+- Adding new contacts
+- Searching by first name or last name (case insensitive)
+- Deleting contacts
+- Saving to CSV file
+- Displaying contacts (no sorting)
 
-## Struttura
+## Structure
 
-- `Program.cs`: logica principale e interfaccia CLI
-- `Contatto.cs`: definizione della classe Contatto e metodi associati
-- `rubrica.csv`: file dati (se presente) con i contatti
+- `Program.cs`: main logic and CLI interface
+- `Contatto.cs`: definition of the Contatto class and associated methods 
+- `rubrica.csv`: data file (if present) containing the contacts
 
-## Come usare
+## How to Use
 
-1. Clona il repository
-2. Apri il progetto in Visual Studio o VS Code
-3. Compila ed esegui
-4. Segui le istruzioni a schermo per interagire con la rubrica
+1. Clone the repository
+2. Open the project in Visual Studio or VS Code
+3. Build and run
+4. Follow the on-screen instructions to interact with the address book
 
-## Tecnologie usate
+## Technologies Used
 
 - C# (.NET 8.0)
-- StreamReader / StreamWriter per gestione file
-- Programmazione orientata agli oggetti
-- Console CLI interattiva
+- StreamReader / StreamWriter for file handling
+- Object-oriented programming
+- Interactive console CLI
 
-## Miglioramenti futuri
+## Future Improvements
 
-- Ordinamento automatico dei contatti per cognome
-- Validazione degli input (email, telefono)
-- Supporto per salvataggio in JSON
-- Interfaccia grafica (GUI)
-- Integrazione con database o API REST
+- Automatic sorting of contacts by last name
+- Input validation (email, phone number)
+- Support for JSON saving
+- Graphical user interface (GUI)
+- Integration with database or REST API
 
-## Licenza
+## License
 
 [MIT License](LICENSE)
 
 ---
 
-Made by Alythia 
+Made by Alythia
